@@ -1,0 +1,2 @@
+node harvest.js
+pause
