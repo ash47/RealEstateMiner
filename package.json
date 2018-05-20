@@ -1,0 +1,23 @@
+{
+  "name": "realestateminer",
+  "version": "1.0.0",
+  "description": "Mining tools to mine real estate",
+  "main": "query.js",
+  "dependencies": {
+    "mongodb": "^2.2.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ash47/RealEstateMiner.git"
+  },
+  "author": "Ash47",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ash47/RealEstateMiner/issues"
+  },
+  "homepage": "https://github.com/ash47/RealEstateMiner#readme"
+}
